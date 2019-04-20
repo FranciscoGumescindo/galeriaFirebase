@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#f57c00</color>
+    <color name="colorAccent">#ffeb3b</color>
+
+
+    <color name="barraIsc">#7cb342</color>
+
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="black">#000000</color>
+
+    <color name="isc">#52f31e</color>
+    <color name="ige">#ce5eec</color>
+    <color name="ii">#ffe0b2</color>
+    <color name="barraIi">#ffb300</color>
+    <color name="barraIge">#ab47bc</color>
+    <color name="gris">#BDBDBD</color>
+    <color name="green">#689F38</color>
+</resources>
